@@ -13,7 +13,10 @@ mkdir -p ~/.config/vis/themes
 cp -r ~/rose-pine-vis-theme/themes/ ~/.config/vis/themes/
 ```
 - Set the theme inside your `visrc.lua`
-add ```vis:command('set theme rose-pine[-variant]')```
+add
+```
+vis:command('set theme rose-pine[-variant]')
+```
 inside
 ```
 vis.events.subscribe(vis.events.INIT, function()
