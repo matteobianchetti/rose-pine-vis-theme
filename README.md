@@ -30,3 +30,17 @@ vis.events.subscribe(vis.events.INIT, function()
 
 end)
 ```
+
+## Gallery
+
+**Rosé Pine**
+
+<img width="3008" height="634" alt="image" src="https://github.com/user-attachments/assets/d027b615-8952-4c07-ae39-4264089af57a" />
+
+**Rosé Pine Moon**
+
+<img width="3018" height="636" alt="image" src="https://github.com/user-attachments/assets/dd90cced-9416-4c16-88ff-957490bbf397" />
+
+**Rosé Pine Dawn**
+
+<img width="3018" height="636" alt="image" src="https://github.com/user-attachments/assets/aad57387-e57a-4085-ba7a-2fab0f42b297" />
